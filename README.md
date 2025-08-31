@@ -66,9 +66,14 @@ The assistant will provide helpful information and always include a clear discla
 
 ---
 
-### Demo (Optional)
-
-You can include a screenshot here to visually demonstrate the app:
+### Demo
 
 ![feet cold](https://github.com/user-attachments/assets/87c8ee60-0845-4b44-b983-d5d014b7c61f)
 
+
+
+## Live 
+
+https://gemini-health-care-vorux4qb7pbtqmcgcapufw.streamlit.app/
+
+Use this link to see how this works 
